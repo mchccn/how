@@ -1,5 +1,7 @@
 # how
 
+a collection of posts on how to do stuff
+
 > how do i...
 
-a collection of posts on how to do stuff
+- [do collision detection and resolution](to-do-collisions.md)
